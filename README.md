@@ -1,5 +1,5 @@
 # NSC800_SOL-20
-NSC800 CPU adapter for a SOL-200 Computer
+NSC800 CPU adapter for a SOL-20 Computer
 
 I've been entrusted with 2 SOL-20 computers to restore, one of which came with an NSC800 CPU on a homebrew wire wrapped board. This CPU is fully compatible with the Z80 instruction set and upgrades the SOL-20 from an 8080A to a Z80 compatible S100 bus computer.
 
