@@ -9,4 +9,4 @@ Here you will find the board schematics and a picture of the homebrew with label
 
 I have not laid out a PCB for this yet as it would take a bit of time to line up the headers that plug into the sockets on the main logic board. Feel free to layout a PCB and I'll link to it from here.
 
-![1000002535](https://github.com/user-attachments/assets/cc4635c0-7cd2-40c3-8db2-ed6d4e008cb6)
+![NSC800 Adapter](https://github.com/user-attachments/assets/151ad04c-4c97-4fc0-976c-b6c6e142ba04)
